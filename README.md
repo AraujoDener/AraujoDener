@@ -1,6 +1,6 @@
 ### Olá, eu sou AraujoDener. 👋
 
-- 🔭 Hoje trabalho na indútria papeleira, corte e conversão de papel para imprimir e escrever.
+- 🔭 Hoje trabalho na indústria papeleira, corte e conversão de papel para imprimir e escrever.
 - 🌱 Estudando Engenharia de Software.
 - 😄 Pronouns: Ele/Dele
 <div style="display: inline_block"><br>
