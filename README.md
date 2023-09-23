@@ -1,8 +1,10 @@
+
 ### Olá, eu sou Matheus Araújo. 👋
 
-- 🔭 Hoje trabalho na indústria papeleira, corte e conversão de papel para imprimir e escrever.
 - 🌱 Estudando Engenharia de Software.
+- 🌎 Três Lagoas-MS
 - 😄 Pronouns: Ele/Dele
+- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
