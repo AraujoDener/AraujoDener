@@ -8,11 +8,11 @@
 
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&theme=tokyonight&show_icons=true"
     media="(prefers-color-scheme: tokyonight)"
    />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&show_icons=true"&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&theme=tokyonight&show_icons=true"
     media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=araujodener&show_icons=true" />
