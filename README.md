@@ -8,14 +8,14 @@
 
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&theme=tokyonight&show_icons=true"
-    media="(prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&theme=dark&show_icons=true"
+    media="(prefers-color-scheme: dark)"
    />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&theme=tokyonight&show_icons=true"
-    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=araujodener&theme=dark&show_icons=true"
+    media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=araujodener&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=araujodener&theme=dark&show_icons=true" />
 </picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
