@@ -7,6 +7,7 @@
 - 😄 Pronouns: Ele/Dele
 <picture>
   <source
+    bg_color=#000000
     srcset="https://github-readme-stats.vercel.app/api?username=araujodener&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: tokyonight)"
   />
